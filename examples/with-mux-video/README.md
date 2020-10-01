@@ -34,7 +34,7 @@ This example uses:
 
 ## Configuration
 
-### Step 1. Create an account in Mux
+### Step 1. Create a account in Mux
 
 All you need to set this up is a [Mux account](https://mux.com). You can sign up for free and pricing is pay-as-you-go. There are no upfront charges, you get billed monthly only for what you use.
 
